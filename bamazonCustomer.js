@@ -59,7 +59,7 @@ function start() {
 //       {
 //         id: "1",
 //         name: "Shampoo",
-//         price: 8
+//         price: 7.95
 //       },
 //       function(err, res) {
 //         console.log(res.affectedRows + " product inserted!\n");
